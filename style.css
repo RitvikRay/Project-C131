@@ -1,0 +1,46 @@
+a
+{
+    color:white;
+    text-decoration: none;
+}
+a:hover
+{
+    color:white;
+    text-decoration: none;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size:cover;
+    background-position: center;
+}
+canvas{
+    box-shadow:10px 10px 10px grey;
+    border-radius: 10px;
+}
+button .btn
+{
+    border-radius: 20px;
+    width:300px;
+}
+#objects
+{
+font-size: 18px;
+}
+#back
+{
+    background-color: black;
+    color:white;
+}
